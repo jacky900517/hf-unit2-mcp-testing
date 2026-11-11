@@ -1,0 +1,9 @@
+Observed 2026-11-11 (Asia/Taipei), Playwright MCP 0.0.85, isolated Chrome.
+Action: click the public course query page header link to /seltop.php.
+Page URL: https://couquery.ttu.edu.tw/seltop.php
+
+Actual browser_snapshot output:
+- generic [active] [ref=f3e1]: 操作逾時，請重新登錄
+
+Local evidence reference: Bonus Playwright RPC #12 click, #13 snapshot, #14 screenshot.
+The screenshot is an unmodified browser_take_screenshot result, not a generated illustration.
